@@ -1,3 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5b34be4b-1eb5-405f-a53f-de7a22f1d1b0" alt="Animated visualization of..." />
+  <img src="https://github.com/user-attachments/assets/96b30c10-2f58-428a-8fe7-91c5e63dc33e" alt="Animated visualization of..." />
 </div>
+
