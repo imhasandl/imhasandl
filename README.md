@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3219e00e-e40a-4a9e-84e7-3957e1aadf99" alt="Animated visualization of..." />
-  <img src="https://github.com/user-attachments/assets/3219e00e-e40a-4a9e-84e7-3957e1aadf99" alt="Animated visualization of..." />
-  <img src="https://github.com/user-attachments/assets/3219e00e-e40a-4a9e-84e7-3957e1aadf99" alt="Animated visualization of..." />
+  <img src="https://github.com/user-attachments/assets/5127b2d4-289b-4a2d-b9b7-68c1b05dfcd4" alt="Animated visualization of..." />
 </div>
 
 
