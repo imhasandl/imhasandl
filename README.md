@@ -1,1 +1,3 @@
-![Image](https://github.com/user-attachments/assets/40e7d70e-8597-458c-84d4-e68f88808269)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2e50d122-9a2f-47c9-bc5e-b5f084e625f7" alt="Animated visualization of..." />
+</div>
